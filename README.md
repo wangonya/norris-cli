@@ -3,12 +3,12 @@ A simple cli app that brightens up your day with Chuck Norris jokes from [chuckn
 
 ## Installation
 Install norris-cli from PyPi
-```bash
+```
 pip install norris-cli
 ```
 
 ## How to use
-```bash
+```
 $ norris-cli --help
 Usage: norris-cli [OPTIONS]
 
