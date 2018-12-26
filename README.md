@@ -21,19 +21,19 @@ Options:
 ```
 
 ### Get a random joke
-```bash
+```
 $ norris-cli
 Chuck Norris doesn't call the wrong number. You answer the wrong phone.
 ```
 
 ### Specify a category
 _You can see all available categories by running `norris-cli --help`_
-```bash
+```
 $ norris-cli -c dev
 Chuck Norris can't test for equality because he has no equal.
 ```
 
-```bash
+```
 $ norris-cli -c food
 Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
 ```
