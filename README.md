@@ -1,5 +1,5 @@
 # norris-cli
-A simple python cli app that brightens up your day with Chuck Norris jokes from [chucknorris.io](https://api.chucknorris.io/).
+A python cli app that brightens up your day with Chuck Norris jokes from [chucknorris.io](https://api.chucknorris.io/).
 
 ## Installation
 Install norris-cli from [PyPi](https://pypi.org/project/norris-cli/)
